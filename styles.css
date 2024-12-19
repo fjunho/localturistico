@@ -1,0 +1,139 @@
+
+.container {
+  box-sizing: border-box;
+  width: 1120px;
+  padding: 24px;
+  height: 3054px;
+  border-radius: 24px;
+  margin: 48px auto 28px;
+
+
+}
+
+.container{
+  img {
+    border-radius: 28px; 
+    width: 100%; 
+  }
+}
+.titlepage{
+  width: 1120px;
+  height: 79px;
+}
+
+#titulopag{
+  color: #e1624f;
+  font-family: 'Open sans';
+}
+
+
+
+.titulopag{
+    font-family: 'Open sans';
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold; /* a fonte fica em negrito */
+    color:black;
+    text-transform: uppercase; 
+  }
+
+
+
+#busanh1 {
+  font-family: 'open sans';
+  color:black;
+  font-size: 16px;
+}
+
+#busan{
+  font-family: 'Open sans';
+  font-size: 30px;
+  color: #000;
+  font: bold;
+}
+
+#paragdois{
+  font-family: 'Open sans';
+  font-size: 15px;
+  color:#000;
+
+}
+
+#amanthist{
+  font-family: 'Open sans';
+  color:#e1624f;
+  font-size: 16px;
+}
+
+#plisttitle{
+  font-family: 'Open sans';
+  font-size: 15px;
+  color:#000
+}
+
+#paragdois{
+  font-family: 'Open sans';
+  font-size: 16px;
+}
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+.divider2 {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+#listum{
+  font-family: 'Open sans';
+  font-size: 20px;
+  
+  color: #000;
+}
+
+#listump{
+  font-family: 'Open sans';
+  font-size: 15px;
+  color: #000;
+  height: 80px;
+  width: 1120;
+
+}
+
+#templobeomeo{
+  font-family: 'Open sans';
+  font-size: 15px;
+  color: #000;
+  
+
+}
+
+#yongdusan{
+  font-family: 'Open sans';
+  font-size: 15px;
+  color: #000;
+}
+
+#rodape{
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic; /* Muda estilo da fonte para itálico */
+  text-align: center;
+  color: #333333;
+  margin-top: 24px;
+}
+
+#casais{
+  color: blue;
+}
+#familias{
+  color:red;
+}
+#orcamento{
+  color:#e1624f
+}
